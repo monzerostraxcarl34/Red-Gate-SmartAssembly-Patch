@@ -1,0 +1,1 @@
+# Red-Gate-SmartAssembly-Patch
